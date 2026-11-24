@@ -1,0 +1,8 @@
+nombre,25,edad,30
+abc,_dato,100,-20
+var1,3.14,@
+a,,b
+uno dos
+x,
+
+

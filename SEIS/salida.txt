@@ -1,0 +1,6 @@
+CORREO VALIDO: nombre@dominio.com
+CORREO VALIDO: usuario123@gmail.com
+CORREO VALIDO: ana.perez@epn.edu.ec
+CORREO NO VALIDO: correo@dominio
+CORREO NO VALIDO: @correo.com
+CORREO NO VALIDO: hola

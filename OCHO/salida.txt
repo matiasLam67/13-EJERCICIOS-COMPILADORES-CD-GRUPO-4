@@ -1,0 +1,8 @@
+Hexadecimal: 0x0 -> Decimal: 0
+Hexadecimal: 0xA -> Decimal: 10
+Hexadecimal: 0xFF -> Decimal: 255
+Hexadecimal: 0x1A3F -> Decimal: 6719
+Hexadecimal: 0X10 -> Decimal: 16
+Hexadecimal: 0xABC -> Decimal: 2748
+HEXADECIMAL NO VALIDO: 0x1G
+HEXADECIMAL NO VALIDO: 123

@@ -1,0 +1,8 @@
+Binario: 0 -> Decimal: 0
+Binario: 1 -> Decimal: 1
+Binario: 1010 -> Decimal: 10
+Binario: 1111 -> Decimal: 15
+Binario: 10000 -> Decimal: 16
+Binario: 110101 -> Decimal: 53
+BINARIO NO VALIDO: 10201
+BINARIO NO VALIDO: abc
