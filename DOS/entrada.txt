@@ -1,0 +1,4 @@
+int contador = 10;
+if contador while 2026
+else variable_1
+
