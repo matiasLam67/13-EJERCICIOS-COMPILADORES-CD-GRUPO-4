@@ -1,0 +1,2 @@
+SELECT Nombre, APELLIDO FROM Estudiantes WHERE Semestre = 2026B;
+HOLA MUNDO EN FLEX! sii

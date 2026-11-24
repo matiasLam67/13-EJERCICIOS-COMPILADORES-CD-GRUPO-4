@@ -1,0 +1,2 @@
+select nombre, apellido from estudiantes where semestre = 2026b;
+hola mundo en flex! sii
