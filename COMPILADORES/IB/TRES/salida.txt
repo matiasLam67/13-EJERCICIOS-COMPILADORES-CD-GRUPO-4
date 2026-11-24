@@ -1,0 +1,2 @@
+Número de líneas 5
+Número de caracteres 32
